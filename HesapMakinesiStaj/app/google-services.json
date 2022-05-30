@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642873962170",
+    "project_id": "hesap-makinesi-e1d76",
+    "storage_bucket": "hesap-makinesi-e1d76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642873962170:android:facaeee8fd6831a75d9c83",
+        "android_client_info": {
+          "package_name": "com.example.hesapmakinesistaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642873962170-d0peadtfki33r2ceqf9ailpnd50r44vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVhpFPKP8_m6vP7YiRBlqll0Vrp6Qd-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642873962170-d0peadtfki33r2ceqf9ailpnd50r44vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
